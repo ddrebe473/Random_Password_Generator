@@ -1,0 +1,15 @@
+h1, button, h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+body{
+    text-align: center;
+}
+
+button{
+    font-weight: bold;
+    width: 7.5rem;
+    height: 3rem;
+    background-color: transparent;
+    cursor: pointer;
+}
